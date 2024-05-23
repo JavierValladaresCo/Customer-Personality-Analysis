@@ -2,7 +2,7 @@
 # Customer Personality Analysis
 
 
-![Customer Anaylsis](/Images/dataset-cover.png")
+![Customer Anaylsis](/Images/dataset-cover.png)
 
 
 ## Methods Used
