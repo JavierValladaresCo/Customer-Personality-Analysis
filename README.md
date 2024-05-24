@@ -30,6 +30,8 @@
 
 ## Conclusions
 
+![Cluster 3d](/Images/Cluster_3d.png "3d plot")
+
 ![Cluster Analysis](/Images/Cluster_Analysis.png "Radar Chart")
 
 * ### Cluster 0: Relatively young customers, with a high income.
