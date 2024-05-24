@@ -62,9 +62,12 @@
 
 ## Challenges
 
+The main challenge of this project was feature engineering, as the dataset contained different types of features related to similar information, such as campaign offers and product spending. This phase was crucial because any errors would propagate to subsequent stages of the project.
 
 
 ## What else i might have done?
+
+I might have taken a different approach to handle the product spending features to build a recommendation system. This could provide valuable insights into customer purchases and offer crucial information for campaign offers.
 
 
 ## Authors
