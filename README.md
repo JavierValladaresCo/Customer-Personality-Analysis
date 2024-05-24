@@ -8,9 +8,9 @@
 ## Methods Used
 
  - Machine Learning
- - Predictive Modeling
+ - Unsupervised Clustering 
  - Data Visualization
-
+ - Customer Segmentation
 
 ## Technologies
 
@@ -24,13 +24,13 @@
 
 ## Needs of this project
 
-- Data processing/cleaning
+- Exploratory Data Analysis
 - Data exploration/descriptive statistics
 - Statistical modeling
 
 ## Conclusions
 
-![Confussion Matrix](/images/Confussion_Matrix.png "Confussion Matrix")
+![Cluster Analysis](/images/Cluster_Analysis.png "Radar Chart")
 
 ## Challenges
 
