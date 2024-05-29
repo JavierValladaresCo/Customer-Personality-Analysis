@@ -1,6 +1,8 @@
 
 # Customer Personality Analysis
 
+The purpose of this project was to predict rain based on measured weather parameters collected in Australia. Exploratory Data Analysis (EDA) was crucial for this project, as there were numerous instances of dirty data and missing values that negatively impacted the accuracy of the predictions.
+
 
 ![Customer Anaylsis](/Images/dataset-cover.png)
 
